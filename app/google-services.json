@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "364728909297",
+    "project_id": "clsolutions-1c07c",
+    "storage_bucket": "clsolutions-1c07c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364728909297:android:5d3d998473c1ef1267d850",
+        "android_client_info": {
+          "package_name": "com.example.clsolutions"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMmai_fyHmZ6BeDQONwG2bmfjtwyCIzO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
